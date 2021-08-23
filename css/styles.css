@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: beige;
+}
+
+.mainContainer{
+    width: 550px;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: whitesmoke;
+    overflow: hidden;
+}
+
+h2{
+    font-size: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    color: thistle;
+}
+
+.border{
+    border: 10px solid #666;
+    border-radius: 20%;
+    width: 100px;
+    height: 100px;
+
+}
+
+#a{
+    margin-left: 200px;
+    margin-bottom: 5px;
+    float: left;
+}
+
+#b{
+    margin-left: 140px;
+    margin-bottom: 5px;
+    float: left;
+    clear: left;
+}
+
+#c{
+    margin-left: 5px;
+    margin-bottom: 5px;
+    float: left;
+
+
+}
+
+#d{
+    margin-left: 80px;
+    margin-bottom: 5px;
+    clear: left;
+    float: left;
+}
+
+#e{
+    margin-left: 5px;
+    margin-bottom: 5px;
+    float: left;
+}
+
+#f{
+    margin-left: 5px;
+    margin-bottom: 5px;
+    float: left;
+}
+
+.blue{
+    color: blue;
+    border-color: blue;
+}
+
+.yellow{
+    color: yellow;
+    border-color: yellow;
+}
+
+.pink{
+    color: pink;
+    border-color: pink;
+}
+
+.red{
+    color: red;
+    border-color: red;
+}
+
+.green{
+    color: green;
+    border-color: green;
+}
